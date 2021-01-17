@@ -1,6 +1,15 @@
 # Döviz, Borsa ve Kripto Paralar API Servisleri
 Bulunan Tüm Döviz Kurları, Borsa ve Kripto Fiyatları Toplu API Servisleri
 
+## canlidoviz.com Api - Güncelleme: 2021-01
+- Döviz: https://canlidoviz.com/doviz-kurlari.jsonld
+- Altın: https://canlidoviz.com/altin-fiyatlari.jsonld
+- Kripto: https://canlidoviz.com/kripto-paralar.jsonld
+- Borsa: https://canlidoviz.com/borsa.jsonld
+- Pariteler: https://canlidoviz.com/pariteler.jsonld
+- Emtia: https://canlidoviz.com/emtia-fiyatlari.jsonld
+- Endeks: https://canlidoviz.com/endeks.jsonld
+
 ## Paragaranti Foreks API
 - BIST Endeks Listesi: https://web-paragaranti-pubsub.foreks.com/web-services/securities/exchanges/BIST/groups/E
 - BIST Endes Alfabetik Detaylı Liste: https://web-paragaranti-pubsub.foreks.com/web-services/securities?key=A&index=&exchangeGroupFilter=BIST.E&extendedResult=true ( * key=**HARF** )
@@ -13,11 +22,6 @@ Bulunan Tüm Döviz Kurları, Borsa ve Kripto Fiyatları Toplu API Servisleri
 
 * Tarihsel verilere **name** değişkenine diğer kur isimlerini ekleyerek kontrol edebilirsiniz.
 
-
-## canlidoviz.com Api
-- Döviz: https://api.canlidoviz.com/web/items?marketId=1&type=0
-- Altın: https://api.canlidoviz.com/web/items?marketId=1&type=1
-- Kripto: https://api.canlidoviz.com/web/items?marketId=1&type=2
 
 ## Hürriyet Bigpara Api
 - Hisse Listesi: http://bigpara.hurriyet.com.tr/api/v1/hisse/list
